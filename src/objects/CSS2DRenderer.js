@@ -2,7 +2,8 @@
  * @author mrdoob / http://mrdoob.com/
  */
 
-const THREE = require('../three.js');
+const THREE = require('three');
+
 THREE.CSS2DObject = function (element) {
 
 	THREE.Object3D.call(this);

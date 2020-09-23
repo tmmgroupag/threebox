@@ -5,7 +5,7 @@
 
 var utils = require("../utils/utils.js");
 var material = require("../utils/material.js");
-const THREE = require('../three.js');
+const THREE = require('three');
 
 const AnimationManager = require("../animation/AnimationManager.js");
 const CSS2D = require("./CSS2DRenderer.js");
