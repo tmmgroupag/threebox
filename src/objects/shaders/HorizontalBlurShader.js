@@ -1,4 +1,4 @@
-const THREE = require('../../three.js');
+const THREE = require('three');
 /**
  * @author zz85 / http://www.lab4games.net/zz85/blog
  *

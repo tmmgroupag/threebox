@@ -1,4 +1,4 @@
-const THREE = require('../../three.js');
+const THREE = require('three');
 const Pass = require('./Pass.js');
 /**
  * @author alteredq / http://alteredqualia.com/

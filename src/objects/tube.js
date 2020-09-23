@@ -1,7 +1,7 @@
 var utils = require("../utils/utils.js");
 var material = require("../utils/material.js");
 var Objects = require('./objects.js');
-var THREE = require("../three.js");
+var THREE = require('three');
 var Object3D = require('./Object3D.js');
 
 function tube(obj, world){

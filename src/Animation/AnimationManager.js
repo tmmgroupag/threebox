@@ -1,4 +1,4 @@
-const THREE = require('../three.js');
+const THREE = require('three');
 var threebox = require('../Threebox.js');
 var utils = require("../utils/utils.js");
 var validate = require("../utils/validate.js");
