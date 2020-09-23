@@ -3,7 +3,8 @@
  * @author jscastro / https://github.com/jscastro76
  */
 
-var THREE = require("./three.js");
+var THREE = require('three');
+var mapboxgl = require('mapbox-gl');
 var CameraSync = require("./camera/CameraSync.js");
 var utils = require("./utils/utils.js");
 var SunCalc = require("./utils/suncalc.js");

@@ -1,4 +1,4 @@
-const THREE = require('../../three.js');
+const THREE = require('three');
 const ShaderPass = require('./ShaderPass.js');
 const CopyShader = require("../shaders/CopyShader.js");
 
